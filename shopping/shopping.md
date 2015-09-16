@@ -9,5 +9,5 @@
   * Pull&Bear
   * Bershka
   * Stradivarius
-  * Jesús
+  * Renata&Go
     * Third level 
