@@ -1,6 +1,6 @@
 ##Food & Beverages
 ###Supermarkets
-  * Mercadona https://www.mercadona.es/ns/index.php
+  * [Mercadona] (https://www.mercadona.es/ns/index.php)
   * Carrefour
   * Dia
   * Simply
