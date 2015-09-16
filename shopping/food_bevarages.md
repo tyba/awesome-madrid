@@ -1,8 +1,9 @@
 ##Food & Beverages
 ###Supermarkets
   * [Mercadona] (https://www.mercadona.es/ns/index.php)
-   **Working Schedules:** 
+    <br>*Working hours:* 9:00 am to 9:30 pm 
   * [Carrefour] (https://www.carrefour.es)
+    <br>*Working hours:* 9:00 am to 11:00 pm
   * [Dia] (https://www.dia.es)
   * [Simply] (https://www.simply.es)
   * [La Sirena] (http://www.lasirena.es)
