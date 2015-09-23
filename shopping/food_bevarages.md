@@ -9,7 +9,9 @@
   * [Simply] (https://www.simply.es)
     <br>*Working hours:* 9:00 am to 22:00 pm
   * [La Sirena] (http://www.lasirena.es)
+    <br>*Working hours:* 9:15am to 21:15 pm
   * [Vips] (http://vips.es/)
+    <br>*Working hours:* 8:00 am to 2:00 am
   * [El Corte Inglés] (https://www.elcorteingles.es)
   * [Hipercor] (http://www.hipercor.es)
   * [Alcampo] (http://alcampo.es)
