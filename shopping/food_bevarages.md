@@ -5,7 +5,9 @@
   * [Carrefour] (https://www.carrefour.es)
     <br>*Working hours:* 9:00 am to 11:00 pm
   * [Dia] (https://www.dia.es)
+    <br>*Working hours:* 9:00 am to 21:30 pm
   * [Simply] (https://www.simply.es)
+    <br>*Working hours:* 9:00 am to 22:00 pm
   * [La Sirena] (http://www.lasirena.es)
   * [Vips] (http://vips.es/)
   * [El Corte Inglés] (https://www.elcorteingles.es)
