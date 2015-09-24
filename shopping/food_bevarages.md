@@ -74,6 +74,10 @@ One typical and special thing about Spain, and Madrid in general, are its colorf
    <br><br>
   * [Chamartín](http://www.mercadodechamartin.es)
     <br> **Working hours:** 9:00am to 14:00 pm and from 17:00 to 20:00pm during weekdays, and from 9:00 am to 14:00 pm on Saturdays
-  
-   
+  <br><br>The mercado de Chamartín is one of the biggest markets of Madrid.
+<br>
+  <b>Address:</b> Bolivia 9, Chamartín
+<br>
+  <b>Metro:</b> Colombia
+
 Mercado de Productores Ecologicos (every last weekend of the month, in Matadero Square)
