@@ -31,6 +31,12 @@
    <br>
   * [EROSKI](http://www.eroski.es)
    <br>*Working hours:* 9:00 am to 10:00 pm
+   <br><br>
+
+##Important things to know about grocery shopping in Spain
+  <br>
+  <b>Bring your own plastic or reusable bags</b>
+
 
 
 
