@@ -28,6 +28,8 @@
     <br>*Working hours:* 8:00 am to 9:30 pm
   * [Condis] (https://www.condis.es)
     <br>*Working hours:* 9:00 am to 14:00 pm and from 17:00-20:00 pm
+   *[EROSKI](http://www.eroski.es)
+   <br>*Working hours:* 9:00 am to 10:00 pm
 
 
 
