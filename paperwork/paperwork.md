@@ -10,4 +10,4 @@
 <br>
 -Open a bank account (this can be done once that you have the permanent NIE)
 <br>
--Internet and telephone (you need a NIE for this and a bank account)
+-Internet and telephone (you need NIE and a bank account)
