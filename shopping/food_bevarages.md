@@ -118,11 +118,29 @@ Located in the heart of Madrid's old quarter (barrio of La Latina),an area of ge
   * [San Antón](http://www.mercadosananton.com)
     <br> **Working hours:** 10:00 am to 22:00 pm from Monday to Saturday, and from 10:00 am to 15:00 pm on Sundays
 <br><br>
-If you are walking around Madrid, and find yourself in the barrio Chueca, you should definitely stop by the Mercado de San Antón. Apart from offering fresh and organic produce, the market is also famous for its rooftop bar, as well as it's gourmet foods like foir gras, seafood, and tapas lounge where you can stop by for some typical spanish tapas, cheese and a glass of wine.
+If you are walking around Madrid, and find yourself in the barrio Chueca, you should definitely stop by the Mercado de San Antón. More food than traditional market, its 22 vendors sell everything from fresh produce and meats to cooked regional specialties. The top floor restaurant has a terrace with views of the city where you can enjoy some gourmet food, typical spanish tapas, cheese and a glass of wine.
 <br>
-<b>Address:</b>Augusto Figueroa 24, Chueca
+<b>Address:</b> Augusto Figueroa 24, Chueca
 <br>
-<b>Metro:</b>< Chueca
+<b>Metro:</b> Chueca
+<br><br>
+  * [Platea](http://experience.plateamadrid.com/patio)
+    <br> **Working hours:** Sun-Wed 12:00 pm to 12:30 am, Thurs-Sat 12:00 am to 2:30 am
+<br><br>
+This hip new market was unvelied in the summer of 2015, converting the former Carlos III cinema in Plaza Colón into a spectacular food market with restaurants, bars and stall of myriad kind, all overssen by three (Michelin Star owning) Spanish chefs. If you are in the mood for Peruvian, Mexican, Japanese of traditional Italian cuisine, go to Platea for a culinary experience where you can also enjoy to live music most evenings, as well as a beer and traditional tapas. The Cocktail bar El Paco, located on the second floor of the establishment, offers views of the space and includes a smoking club.
+<br>
+<b>Address:</b> Calle Goya 5-7
+<br>
+<b>Metro:</b> Goya or Colón
+<br><br>
+  * [Mercado de San Ildefonso](http://www.mercadodesanildefonso.com)
+    <br> **Working hours:** 10:00 am to 1:00 am daily
+<br><br>
+The Mercado de San Ildefonso is the hippest addition to Madrid's growing culinary scene. This three-story food emporium is situated in the trendy Malasana barrio, and opened in the summer of 2015 on the site of a  market that was demolished in 1970. Unlike its more traditional counterparts, the Mercado de San Ildefonso isn't envisioned as the go-to place for home-cooking. Instead, the market is designed as the perfect shopping pitstop, in the hustling and bustling of Fuencarral, where once can enjoy drinks and snacks at any time of the day. The 18 stalls and three bars, along with the outdoor patio and beautifully lit terrace make the Mercado a unique experience.
+<br>
+<b>Address:</b> Calle Fuencarral, 57
+<br>
+<b>Metro:</b> Fuencarral
 
 
 Mercado de Productores Ecologicos (every last weekend of the month, in Matadero Square)
