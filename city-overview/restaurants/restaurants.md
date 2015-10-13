@@ -1,4 +1,4 @@
-Restaurants near the office:
+# RESTAURANTS NEAR THE OFFICE:
 **Goiko Grill** (Av. del General Perón, 16)
 ![alt](http://images.take-eat-easy.es/logo2/120_13.jpg)
 
@@ -6,7 +6,7 @@ Restaurants near the office:
 ![alt](http://images.take-eat-easy.es/logo2/42_23.jpg)
 
 
-City Center
+#CITY CENTER
 **El Colorado** (C/Martin de los Heros, 4)
 Best Mexican food & beers in Madrid
 ![alt](http://elcoloradoexpress.com/foto/foto-colorado-01.jpg)
@@ -21,7 +21,7 @@ Best coffee in Madrid, try their Tonic Expresso!
 
 
 
-**€€€**
+#**€€€**
 **Marisquería La Chalana** (C/San Leonardo,12)
 The place for shellfish
 
