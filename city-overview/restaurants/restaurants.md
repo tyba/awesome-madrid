@@ -7,6 +7,10 @@
 
 
 #CITY CENTER
+**La Casa dei Pazzi** (C/Pelayo, 19)
+One of the best italians (creative) cuisine you can find in Madrid
+![alt](http://pastaporpasta.com/wp-content/uploads/2014/05/La-Casa-dei-Pazzi8-750x400.jpg)
+
 **El Colorado** (C/Martin de los Heros, 4)
 Best Mexican food & beers in Madrid
 ![alt](http://elcoloradoexpress.com/foto/foto-colorado-01.jpg)
