@@ -13,3 +13,6 @@ Banco Sabadell: <a href="https://www.bancsabadell.com/cs/Satellite/SabAtl/">Saba
 ING: it might not be in English, but is very simple and intuitive: <a href="http://www.ingdirect.es/">ING</a>
 BSCH: Banco Santander, not in English, but works worldwide <a href="https://www.bancosantander.es/es/particulares">BSCH</a>
 <br>
+
+If you don't want to get the TIE in order to open a new Bank Account, there are also some interesting online banks that give you the chance to open it just using your passport; they also have some really interesting advantages, like the chance to not pay any commission at all withdrawing from any ATM in the world. To have a more detailed overview, just take a look here: <br>
+ <a href="https://www.spotahome.com/blog/2014/10/19/great-online-bank-account-options-for-expats-in-spain.html">Good Online Banks for Spain</a> 
